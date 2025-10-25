@@ -18,7 +18,7 @@ public class OperatorsOperandsAndExpressions {
         result = result / 4;    //5
 
         result = result % 3;    //2
-        
+
     }
 
 }
